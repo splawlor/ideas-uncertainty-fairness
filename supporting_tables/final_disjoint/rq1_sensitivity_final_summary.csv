@@ -1,0 +1,5 @@
+analysis,n_subjects,mean_rho,n_positive,n_fdr_significant,seed,n_boot
+"Published Table 3.1 (n=532, unadjusted)",532,0.373,14,13,,
+"A. Patients only (n=432), unadjusted",432,0.35332319265447615,14,12,20260818.0,10000.0
+"B1. Volume-adjusted, full cohort (n=532)",532,0.37003170658966383,14,13,20260819.0,10000.0
+"B2. Volume-adjusted, patients only (n=432)",432,0.3489823588270557,14,12,20260820.0,10000.0

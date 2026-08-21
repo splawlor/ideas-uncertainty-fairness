@@ -1,0 +1,8 @@
+variable,source_variable,test,n,strongest_region,effect_name,effect,group_adjusted_permutation_p,pooled_fdr_q_105,nominal_group_adjusted_hits,fdr_significant_hits
+Sex,Sex,Mann-Whitney U,432,R-Caudate,rank_biserial_F_vs_M,0.158453210257295,0.0039498025098745,0.2178641067946602,5,0
+Age band,Binned_Age_at_Scan,Spearman,432,L-Hippocampus,spearman_rho,0.1049831771722869,0.0280485975701214,0.4547080338290777,1,0
+Operation side,Op_Side,Mann-Whitney U,432,L-Amygdala,rank_biserial_L_vs_R,0.1311489508083936,0.0194490275486225,0.4547080338290777,1,0
+Operation type,Op_Type_collapsed,Mann-Whitney U,432,L-Cerebral-WM,rank_biserial_Extra-temporal_vs_Temporal,0.1358381502890173,0.0523973801309934,0.4547080338290777,0,0
+Pathology,Pathology_grp,Kruskal-Wallis,432,Brain-Stem,epsilon_squared,0.0176948941526427,0.0270486475676216,0.4547080338290777,2,0
+Number of ASMs,Number_ASMs,Spearman,432,L-Putamen,spearman_rho,0.0734394342639902,0.1239938003099845,0.6157504624768763,0,0
+ILAE year-1 outcome,ILAE_Y1_seizure_free,Mann-Whitney U,417,R-Hippocampus,rank_biserial_0.0_vs_1.0,-0.0846753246753246,0.1407429628518574,0.6157504624768763,0,0

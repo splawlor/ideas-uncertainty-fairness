@@ -1,0 +1,16 @@
+analysis_name,remapped_id,dataset_json_name,R,G,B,freesurfer_id
+L-Hippocampus,13,Left-Hippocampus,220,216,20,17
+R-Hippocampus,29,Right-Hippocampus,220,216,20,53
+L-Amygdala,14,Left-Amygdala,103,255,255,18
+R-Amygdala,30,Right-Amygdala,103,255,255,54
+L-Thalamus,6,Left-Thalamus,0,118,14,10
+R-Thalamus,25,Right-Thalamus,0,118,14,49
+L-Caudate,7,Left-Caudate,122,186,220,11
+R-Caudate,26,Right-Caudate,122,186,220,50
+L-Putamen,8,Left-Putamen,236,13,176,12
+R-Putamen,27,Right-Putamen,236,13,176,51
+L-Pallidum,9,Left-Pallidum,12,48,255,13
+R-Pallidum,28,Right-Pallidum,13,48,255,52
+L-Cerebral-WM,1,Left-Cerebral-White-Matter,245,245,245,2
+R-Cerebral-WM,20,Right-Cerebral-White-Matter,245,245,245,41
+Brain-Stem,12,Brain-Stem,119,159,176,16

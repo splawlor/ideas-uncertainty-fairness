@@ -1,0 +1,2 @@
+analysed_patients,regional_models,primary_coefficients,conventional_raw_p_lt_0_05,conventional_fdr_q_lt_0_05,hc3_raw_p_lt_0_05,hc3_fdr_q_lt_0_05,mean_r_squared,mean_adjusted_r_squared,median_adjusted_r_squared
+432,15,165,18,0,21,3,0.044611842666569465,0.01016275045502754,0.0123635277851644
